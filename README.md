@@ -86,4 +86,3 @@ def calculer_scores_svd(U_k, S_k, Vt_k, q):
 ---
 
 For detailed explanations or troubleshooting, refer to the project documentation or contact the contributor.
-``` 
